@@ -1,0 +1,83 @@
+---
+title: "Presentación"
+author: "Alexa García, Isabella Campos, Angel Torres, Jesus Adriel, Jorge Ferrerya, Gonzalo Álvarez"
+format: revealjs
+editor: visual
+---
+
+# ¿Qué es la Amortización?
+
+La amortización representa la reducción gradual del valor de un activo o pasivo a lo largo del tiempo.
+
+--
+
+# Tablas de Amortización de Deudas
+
+Ofrecen un panorama detallado sobre el estado de una deuda, mostrando el progreso del pago, los intereses abonados y el saldo pendiente en fechas específicas.
+
+--
+
+## Estructura de una Tabla de Amortización
+
+![Tabla de Amortización](data:image/png;base64,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)
+
+--
+
+## Métodos de Amortización
+
+-   **Amortización con Interés Global**\
+-   **Amortización Constante**\
+-   **Amortización Gradual**
+
+--
+
+## Aplicaciones
+
+Las tablas de amortización se aplican en múltiples contextos financieros, como:
+
+-   Préstamos hipotecarios\
+-   Préstamos personales\
+-   Créditos automotrices\
+-   Créditos estudiantiles\
+-   Financiamiento comercial
+
+--
+
+## Ventajas
+
+-   **Orden y Transparencia:**\
+-   **Certeza en los Pagos:**
+-   **Comparación de Opciones:**\
+-   **Prevención de Impagos:**
+
+--
+
+## Desventajas
+
+-   **Intereses Iniciales Elevados:**
+
+-   **Inflexibilidad:**
+
+-   **Valor Económico Real:**
+
+    --
+
+    ## Ejemplo
+
+    ![](imagen.png)
+
+    --
+
+    # Conclusión
+
+    Las tablas de amortización son instrumentos clave en la gestión financiera, proporcionando una visión clara y estructurada de la deuda. Si bien presentan algunas limitaciones, su utilidad para planificar pagos, evitar impagos y comparar créditos es incuestionable.
+
+    --
+
+    # Referencias
+
+    -   <https://www.bancosantander.es/glosario/amortizacion>
+    -   <https://www.bbva.mx/personas/educacion-financiera/para-que-sirve-la-tabla-de-amortizacion.html>
+    -   <https://www.chipax.com/diccionario-financiero/tabla-d> amortizacion/#:\~:text=Un%20cuadro%20o%20tabla%20de,durante%20la%20vida%20del%20préstamo.
+    -   <https://fastercapital.com/es/tema/ventajas-y-desventajas-de-la-amortización.html>
+    -   <https://www.dropbox.com/scl/fi/8tvbn7asxqvlbfim1g5n1/libroMateFinancieras.pdf?rlkey=s1dwrr7fe03cswd6ccmndi3hk&e=1&dl=0>
